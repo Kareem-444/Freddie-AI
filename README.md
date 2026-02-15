@@ -254,7 +254,7 @@ Before installing Freddie AI, ensure you have:
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/freddie-ai.git
+git clone https://github.com/Kareem-444/freddie-ai.git
 cd freddie-ai
 ```
 
